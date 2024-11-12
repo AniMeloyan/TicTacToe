@@ -1,0 +1,14 @@
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\bin\Debug\net8.0\TicTacwithdinamic.exe
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\bin\Debug\net8.0\TicTacwithdinamic.deps.json
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\bin\Debug\net8.0\TicTacwithdinamic.runtimeconfig.json
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\bin\Debug\net8.0\TicTacwithdinamic.dll
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\bin\Debug\net8.0\TicTacwithdinamic.pdb
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\TicTacwithdinamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\TicTacwithdinamic.AssemblyInfoInputs.cache
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\TicTacwithdinamic.AssemblyInfo.cs
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\TicTacwithdinamic.csproj.CoreCompileInputs.cache
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\TicTacwithdinamic.dll
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\refint\TicTacwithdinamic.dll
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\TicTacwithdinamic.pdb
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\TicTacwithdinamic.genruntimeconfig.cache
+C:\Users\anime\source\repos\TicTacwithdinamic\TicTacwithdinamic\obj\Debug\net8.0\ref\TicTacwithdinamic.dll
